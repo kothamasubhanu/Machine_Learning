@@ -1,4 +1,4 @@
-#Machine Learning
+# Machine Learning
 
 This repository contains clean and structured implementations of key Machine Learning and Deep Learning algorithms. These implementations were developed with the aim of building a solid understanding of the underlying concepts and methods.
 
