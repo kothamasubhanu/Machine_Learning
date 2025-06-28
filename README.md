@@ -15,6 +15,7 @@ Deep Learning
 - Convolutional Neural Network (CNN)
 
 Dependencies
+
 -Python 3.7+
 -NumPy
 -Pandas
@@ -24,6 +25,7 @@ Dependencies
 -hmmlearn (for HMM)
 
 Learning Objectives
+
 -Understand core ML and DL concepts through practical implementation
 -Explore algorithm behavior on synthetic and standard datasets
 -Visualize outputs and evaluate model performance
