@@ -13,20 +13,18 @@ Sequence Modeling
 Deep Learning
 - Feedforward Neural Network (FNN)  
 - Convolutional Neural Network (CNN)
-
+  
 Dependencies
-
--Python 3.7+
--NumPy
--Pandas
--scikit-learn
--matplotlib / seaborn
--TensorFlow / Keras (for CNN and FNN)
--hmmlearn (for HMM)
+- Python 3.7+ 
+- NumPy
+- Pandas
+- scikit-learn
+- matplotlib / seaborn
+- TensorFlow / Keras (for CNN and FNN)
+- hmmlearn (for HMM)
 
 Learning Objectives
-
--Understand core ML and DL concepts through practical implementation
--Explore algorithm behavior on synthetic and standard datasets
--Visualize outputs and evaluate model performance
--Build models from scratch and with libraries for comparison
+- Understand core ML and DL concepts through practical implementation
+- Explore algorithm behavior on synthetic and standard datasets
+- Visualize outputs and evaluate model performance
+- Build models from scratch and with libraries for comparison
